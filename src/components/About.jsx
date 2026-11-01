@@ -61,7 +61,7 @@ export default function About() {
                   {/* Photo inside */}
                   <img
                     src={stackImage}
-                    alt={personalInfo.name}
+                    alt={`${personalInfo.name} - Illustrated Portrait`}
                     className="w-full h-full rounded-xl object-cover object-top"
                   />
                 </div>
