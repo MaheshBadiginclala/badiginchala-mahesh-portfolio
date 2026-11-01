@@ -125,11 +125,33 @@ export const leadershipList = [];
 
 export const internshipsList = [
   {
-    organization: "TAP Academy",
-    role: "Java Full Stack Development Trainee",
-    duration: "2024 - Present",
-    skills: ["Core Java", "OOP", "SQL", "Problem Solving", "REST APIs"],
-    tech: ["Java", "Spring Boot", "Hibernate", "JDBC", "React.js", "MySQL"],
+    organization: "TAP ACADEMY",
+    role: "JAVA FULL STACK DEVELOPMENT TRAINEE",
+    duration: "JUNE 2026 - DECEMBER 2026",
+    skills: [
+      "Core Java and Object-Oriented Programming",
+      "Java application development",
+      "Database integration using JDBC and SQL",
+      "REST API development",
+      "Frontend web application development",
+      "Problem-solving and debugging",
+      "Git version control",
+    ],
+    tech: [
+      "Java",
+      "Spring",
+      "Spring Boot",
+      "Hibernate",
+      "JDBC",
+      "Servlets",
+      "JSP",
+      "SQL",
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React.js",
+      "Git",
+    ],
   },
 ];
 
