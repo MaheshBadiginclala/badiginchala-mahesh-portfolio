@@ -6,7 +6,7 @@
 export const personalInfo = {
   name: "Mahesh Badiginchala",
   firstName: "Mahesh Badiginchala",
-  brandName: "Mahesh Badiginchala", // shown in the preloader, navbar and footer
+  brandName: "MAHESH BADIGINCHALA", // shown in the preloader, navbar and footer
   title: "Java Full Stack Developer",
   location: "Proddatur, India",
   phone: "7659963522",
