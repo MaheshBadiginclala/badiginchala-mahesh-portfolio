@@ -65,20 +65,58 @@ export const skillsContent = {
 export const technicalSkills = {
   categories: [
     {
-      title: "Programming",
-      skills: [{ name: "Java" }, { name: "Python" }, { name: "JavaScript" }],
+      title: "Programming Languages",
+      skills: [
+        { name: "Core Java" },
+        { name: "Python" },
+        { name: "JavaScript" },
+      ],
     },
     {
-      title: "Web Development",
-      skills: [{ name: "HTML" }, { name: "CSS" }, { name: "React" }, { name: "Tailwind CSS" }],
+      title: "Frontend Development",
+      skills: [
+        { name: "HTML5" },
+        { name: "CSS3" },
+        { name: "React.js" },
+      ],
+    },
+    {
+      title: "Backend Development",
+      skills: [
+        { name: "Advanced Java" },
+        { name: "Spring" },
+        { name: "Spring Boot" },
+        { name: "Hibernate" },
+        { name: "JDBC" },
+        { name: "REST APIs" },
+        { name: "Servlets" },
+        { name: "JSP" },
+      ],
     },
     {
       title: "Databases",
-      skills: [{ name: "MySQL" }, { name: "MongoDB" }],
+      skills: [
+        { name: "MySQL" },
+        { name: "MongoDB" },
+      ],
     },
     {
-      title: "Tools",
-      skills: [{ name: "Git" }, { name: "GitHub" }, { name: "VS Code" }, { name: "Postman" }],
+      title: "Core Concepts",
+      skills: [
+        { name: "Object-Oriented Programming (OOP)" },
+        { name: "Data Structures and Algorithms (DSA)" },
+        { name: "CRUD Operations" },
+        { name: "Authentication" },
+        { name: "Role-Based Access Control" },
+      ],
+    },
+    {
+      title: "Development Tools",
+      skills: [
+        { name: "Eclipse" },
+        { name: "VS Code" },
+        { name: "Git" },
+      ],
     },
   ],
 };
