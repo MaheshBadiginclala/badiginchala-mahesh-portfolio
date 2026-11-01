@@ -61,7 +61,7 @@ export default function About() {
                   {/* Photo inside */}
                   <img
                     src={stackImage}
-                    alt={`${personalInfo.name} - Illustrated Portrait`}
+                    alt="Badiginchala Mahesh — JAVA FULL STACK DEVELOPER, TAP Academy student"
                     className="w-full h-full rounded-xl object-cover object-top"
                   />
                 </div>
