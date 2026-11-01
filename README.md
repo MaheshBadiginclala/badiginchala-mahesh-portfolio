@@ -2,7 +2,7 @@
 
 A high-performance, single-page developer portfolio showcasing full-stack Java, React web applications, and AI-powered projects.
 
-**Live site:** https://portfolio-orpin-two-70.vercel.app
+**Live site:** https://maheshbadiginchala.vercel.app
 
 Built during the placement training program at [TAP Academy](https://thetapacademy.com/) (full-stack development, AI and augmented reality training).
 

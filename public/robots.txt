@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://portfolio-orpin-two-70.vercel.app/sitemap.xml
+Sitemap: https://maheshbadiginchala.vercel.app/sitemap.xml
