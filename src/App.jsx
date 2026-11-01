@@ -2,10 +2,11 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import About from './components/About';
 import TechnicalSkills from './components/TechnicalSkills';
-import SoftSkills from './components/SoftSkills';
 import Projects from './components/Projects';
 import Internships from './components/Internships';
+import SoftSkills from './components/SoftSkills';
 import Footer from './components/Footer';
+import { internshipsList } from './data/portfolioData';
 
 export default function App() {
   return (
@@ -14,9 +15,9 @@ export default function App() {
       <Hero />
       <About />
       <TechnicalSkills />
-      <SoftSkills />
       <Projects />
-      <Internships />
+      {internshipsList && internshipsList.length > 0 && <Internships />}
+      <SoftSkills />
       <Footer />
     </>
   );
