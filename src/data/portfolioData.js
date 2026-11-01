@@ -50,16 +50,33 @@ export const aboutContent = {
 };
 
 export const skillsContent = {
-  badge: "My Process",
-  heading: "Here's how I turn ideas into real-world products",
-  description: "A structured, clean-code approach to engineering dependable web applications and scalable APIs.",
+  badge: "MY DEVELOPMENT PROCESS",
+  heading: "How I Build Web Applications",
+  description:
+    "I develop full stack applications by understanding requirements, planning solutions, building frontend and backend functionality, and integrating databases to create practical software solutions.",
   cards: [
-    { number: "01", title: "Research", text: "Analyzing system requirements, data models, and API architecture to design a robust foundation." },
-    { number: "02", title: "Design", text: "Creating intuitive UI wireframes and designing normalized database schemas for optimal performance." },
-    { number: "03", title: "Develop", text: "Writing clean, modular code with Core Java, Spring Boot REST APIs, and responsive React interfaces." },
-    { number: "04", title: "Deploy", text: "Testing thoroughly, optimizing endpoints, and deploying production-ready builds on modern cloud platforms." },
+    {
+      number: "01",
+      title: "Understand Requirements",
+      text: "Understanding project requirements, identifying user needs, and planning the functionality of the application before development.",
+    },
+    {
+      number: "02",
+      title: "Frontend Development",
+      text: "Building responsive user interfaces using HTML, CSS, JavaScript, and React.js to create interactive user experiences.",
+    },
+    {
+      number: "03",
+      title: "Backend Development",
+      text: "Developing backend functionality using Core Java, Spring Boot, Hibernate, JDBC, and REST APIs with database integration.",
+    },
+    {
+      number: "04",
+      title: "Testing & Refinement",
+      text: "Testing application functionality, debugging errors, improving code, and refining features to deliver reliable applications.",
+    },
   ],
-  endText: "Ready to ship!",
+  endText: "Turning ideas into working applications...",
 };
 
 export const technicalSkills = {
