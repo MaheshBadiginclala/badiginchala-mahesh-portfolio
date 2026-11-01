@@ -133,7 +133,7 @@ export default function Hero() {
 
           <h1 data-aos="fade-up" className="text-white text-3xl md:text-5xl font-bold leading-tight">
             {heroContent.greeting}, <br />
-            <span className="text-black">{heroContent.titleHighlight}</span>
+            <span className="text-white">{heroContent.titleHighlight}</span>
           </h1>
 
           <p data-aos="fade-up" data-aos-delay="200" className="text-white text-sm md:text-lg font-semibold max-w-md mt-4 mb-6">
