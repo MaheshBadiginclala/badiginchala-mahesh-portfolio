@@ -147,8 +147,18 @@ export const projects = [
     badge: "🚀 Flagship Project",
     title: "Library Management System",
     description: "Developed a Library Management System using Java, Spring Boot, React and MongoDB with features for book management, borrowing, returns, reservations and user management. Implemented JWT authentication, role-based access control and RESTful APIs, including search/filtering, automated fine calculation and reporting.",
-    techTags: ["Java", "Spring Boot", "React", "MongoDB", "JWT", "REST APIs"],
-    links: { github: "https://github.com/MaheshBadiginclala/library_management_system", demo: "" },
+    techTags: [
+      "Java",
+      "Spring Boot",
+      "React",
+      "MongoDB",
+      "JWT Authentication",
+      "REST APIs"
+    ],
+    links: {
+      github: "https://github.com/MaheshBadiginclala/library_management_system",
+      demo: ""
+    },
     isFlagship: true,
   },
   {
@@ -157,8 +167,19 @@ export const projects = [
     badge: null,
     title: "AI Tourism and Travel Planner",
     description: "Developed an AI-powered tourism platform for destination discovery, real-time weather, distance calculation and personalized travel planning using React, Spring Boot, MongoDB and Gemini API. Implemented AI-generated itineraries, destination search, interactive maps and route visualization with Leaflet, CartoDB and OpenWeatherMap.",
-    techTags: ["React", "Spring Boot", "MongoDB", "Gemini API", "Leaflet", "OpenWeatherMap"],
-    links: { github: "https://github.com/MaheshBadiginclala/AITourism", demo: "https://aetheria-expeditions.netlify.app/" },
+    techTags: [
+      "React",
+      "Spring Boot",
+      "MongoDB",
+      "Gemini API",
+      "Leaflet",
+      "CartoDB",
+      "OpenWeatherMap"
+    ],
+    links: {
+      github: "https://github.com/MaheshBadiginclala/AITourism",
+      demo: ""
+    },
     isFlagship: false,
   },
 ];
