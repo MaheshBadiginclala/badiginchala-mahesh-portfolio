@@ -156,10 +156,46 @@ export const internshipsList = [
 ];
 
 export const softSkillsList = [
-  { name: "Problem Solving", icon: "🧩", desc: "Deconstructing complex algorithmic and business logic problems into clean, efficient solutions." },
-  { name: "Communication", icon: "💬", desc: "Articulating technical concepts clearly and collaborating effectively in cross-functional teams." },
-  { name: "Adaptability", icon: "🔄", desc: "Quickly learning and mastering new tools, frameworks, and modern full-stack technologies." },
-  { name: "Time Management", icon: "⏱️", desc: "Prioritizing tasks and meeting project milestones consistently without compromising code quality." },
+  {
+    name: "Problem Solving",
+    icon: "🧩",
+    desc: "Approaching programming challenges logically and finding effective solutions through practice and debugging.",
+  },
+  {
+    name: "Communication",
+    icon: "💬",
+    desc: "Sharing technical ideas, discussing project requirements and communicating clearly with team members.",
+  },
+  {
+    name: "Teamwork",
+    icon: "🤝",
+    desc: "Collaborating with others, sharing knowledge and contributing towards common development goals.",
+  },
+  {
+    name: "Adaptability",
+    icon: "🔄",
+    desc: "Learning new technologies and adapting to changing project requirements and development environments.",
+  },
+  {
+    name: "Time Management",
+    icon: "⏱️",
+    desc: "Organizing learning activities and development tasks to complete work within planned timelines.",
+  },
+  {
+    name: "Continuous Learning",
+    icon: "📚",
+    desc: "Continuously improving Java Full Stack development knowledge and exploring modern technologies.",
+  },
+  {
+    name: "Critical Thinking",
+    icon: "🧠",
+    desc: "Analyzing problems, understanding requirements and evaluating possible technical solutions.",
+  },
+  {
+    name: "Attention to Detail",
+    icon: "🔍",
+    desc: "Focusing on code quality, debugging errors and maintaining accuracy while developing applications.",
+  },
 ];
 
 export const projects = [
