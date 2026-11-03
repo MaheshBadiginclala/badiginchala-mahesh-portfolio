@@ -14,7 +14,7 @@ export const personalInfo = {
     primary: "badiginchalamahesh9@gmail.com",
     secondary: "badiginchalamahesh9@gmail.com",
   },
-  summary: "Final-year Computer Science student and Java Full Stack Developer experienced in building scalable web applications with React and Spring Boot.",
+  summary: "Computer Science graduate and Java Full Stack Developer experienced in building scalable web applications with React and Spring Boot.",
   resumeUrl: "/MaheshJavaCV.pdf", // put the PDF inside /public
 };
 
@@ -33,7 +33,7 @@ export const socialLinks = {
 export const heroContent = {
   greeting: "Hi, I'm Mahesh Badiginchala",
   titleHighlight: "Java Full Stack Developer",
-  subtitle: "Final-year Computer Science graduate skilled in Java, Spring Boot, and React, building scalable web applications and impactful digital solutions.",
+  subtitle: "Computer Science graduate skilled in Java, Spring Boot, and React, building scalable web applications and impactful digital solutions.",
   ctaPrimary: { text: "View My Work", href: "#projects" },
   ctaSecondary: {
     text: "Contact Me",
@@ -45,7 +45,7 @@ export const heroContent = {
 export const aboutContent = {
   heading: "Hello!",
   // HTML is allowed here (it is rendered with dangerouslySetInnerHTML) — keep it YOUR OWN trusted text.
-  bio: `Hi, my name is <span class="text-black text-xl font-black mx-1 tracking-wide uppercase">Mahesh Badiginchala</span>, a final-year Computer Science graduate and Java Full Stack Developer based in Proddatur, India, sharpening my skills through the placement training program at TAP Academy. Passionate about writing clean code and solving real-world problems, I develop full-stack applications using Core Java, Spring Boot, React, and modern databases. I am eager to start my career as a software engineer where I can contribute to impactful digital solutions and grow within a collaborative team.`,
+  bio: `Hi, my name is <span class="text-black text-xl font-black mx-1 tracking-wide uppercase">Mahesh Badiginchala</span>, a Computer Science graduate and Java Full Stack Developer, sharpening my skills through the placement training program at TAP Academy. Passionate about writing clean code and solving real-world problems, I develop full-stack applications using Core Java, Spring Boot, React, and modern databases. I am eager to start my career as a software engineer where I can contribute to impactful digital solutions and grow within a collaborative team.`,
   techStack: ["Java", "Spring Boot", "React", "MySQL"],
 };
 
